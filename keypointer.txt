@@ -1,0 +1,23 @@
+"xkbset-gui" for enabling keyboard pointer as the very first step
+#Hold Shift and press Num-Lock to enable keyboard mouse emulation
+To move the mouse pointer:
+
+    7, 8 ,9 are the up directions
+    4, 6 are left and right
+    1, 2, 3 are the down directions
+
+Clicking using the emulated mouse buttons is slightly tricky and you have to learn the trick:
+
+    / selects the left mouse key (press it twice for a doubleclick; and thrice for a tripleclick)
+    * selects the middle mouse key
+    - selects the right mouse key
+
+Do note that / and * and - will only select and make a mouse button active. To actually use the active mouse button you need to press:
+
+    Press 5 or + do to the actual mouse-click
+    Press 0 / Ins to press and hold the selected mouse key (e.g. for dragging something)
+    Press . / Del to release the currently selected mouse key.
+
+The numpad emulated mouse is easy to use if you get used to first selecting the mouse key you want to (ab)use by pressing / for left mouse key, - for the right botton or * for the middle and then pressing 5 to do the actual click (or Ins/Del for drag-and-drop).
+
+Example: To do a mouse-click with the middle button you first press the * key and then 5 to click. 
